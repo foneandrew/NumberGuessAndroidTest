@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Number Guess Awww Yeah</string>
+    <string name="welcome_message">Win the game</string>
+    <string name="victory_message">YOU ARE VICTORIOUS</string>
+    <string name="too_high_message">Too high</string>
+    <string name="too_low_message">Too low</string>
+</resources>
